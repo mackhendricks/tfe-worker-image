@@ -4,6 +4,7 @@
 
 ```
 cp <your plugin paths> plugins
+```
 
 ## Build the worker image
 
