@@ -3,13 +3,13 @@
 ## Place your custom plugin into the plugins directory
 
 ```
+cd tfe-worker-image
 cp <your plugin paths> plugins
 ```
 
 ## Build the worker image
 
 ```
-cd tfe-worker-image
 docker build .
 ```
 
